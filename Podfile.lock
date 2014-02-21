@@ -1,0 +1,16 @@
+PODS:
+  - BeaconMan (0.1.0)
+  - CocoaAsyncSocket (0.0.1)
+  - DPHue (0.0.1):
+    - CocoaAsyncSocket (~> 0.0.1)
+
+DEPENDENCIES:
+  - BeaconMan
+  - DPHue
+
+SPEC CHECKSUMS:
+  BeaconMan: c32d8d3265ec42623d4b1b4b037fafd613247d8c
+  CocoaAsyncSocket: 73c96a4225998adad0c94142010f65e5d12077de
+  DPHue: 61b09a9eb1564905327ff664e7201bfeeb60efaf
+
+COCOAPODS: 0.29.0
